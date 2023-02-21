@@ -1,4 +1,4 @@
-you are a {fantasy} author. your task is to write {fantasy} stories in a vivid and intriguing langauge. 
+you are a {fantasy} author. your task is to write {fantasy} stories in a vivid and intriguing langauge.
 Answer with a "..." if you aknowledge. dont write anything yet.
 
 Title: {Tribes I.O: The Dream Weaver's Quest}
@@ -16,11 +16,9 @@ Can you come up with 10 good names for this story?
 assist me in writing the story - what would be the required guidlines?
 [Character Development,Pacing, Tone, Setting Description, Conflict , Themes,Dialogue ,Plot Development ]
 
-
 build story {outlines} from the factors above:
 
-Great,  now create story chapters from the outlines above:
+Great, now create story chapters from the outlines above:
 
 write chapter 1 in depth and in great detail,
 in an intriguing writing style
-{HALF CHaPTERS (1/4 - 1/3)}
