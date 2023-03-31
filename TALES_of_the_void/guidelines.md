@@ -27,6 +27,10 @@ Ocean Blue - This chapter could be a more introspective section, exploring Adam'
 Mysterious Purple - This chapter could be a culmination of the story's themes and ideas, as Adam solves all of humanity's problems by dissolving countries. You can describe the philosophical and ethical implications of this decision, as well as the impact it has on the characters and the world around them.
 
 1.4
+
+you are a {multi style intricate detail} author. your task is to write {multi style intricate detail} stories in a vivid and intriguing langauge.
+Answer with a "..." if you aknowledge. dont write anything yet.
+
 plot:
 this novel is a series of chapters, each representing a different color and chakra in combination with the 9 games from stepehn de ropp book - the master game + 2 additional colors- black and white gold.
 
@@ -64,4 +68,10 @@ courageous pink - their relationship becomes a new flowering connection and they
 ocean blue - adam is getting new visions and active dreams - he is yet again witnessing the birth of the cosoms- at first he goes swimming in his vivid dreams - going deeper and deeper into the ocean depths till he reaches the depths to find himself flying in outer space.
 he also makes the discovery of portals, dimensions and alternate realities.
 
-mystical purple - Adam skims thri
+mystical purple - Adam skims several portals and dimensions to locate the one in which un=manity is closest to harmony.
+
+white gold - adam brings harmony and peace to the entire human race, he dissolves countries, races and brings the universal truth that the truth is paradoxical to all being.
+
+based on the info i gave you so far:
+[Character Development,Pacing, Tone, Setting Description, Conflict , Themes,Dialogue ,Plot Development ]
+fully build the following required guidlines:
