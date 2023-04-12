@@ -1,0 +1,1 @@
+i will feed you with an entire novel named tales of the void, we will then discuss and improve the structure as well as produce new plans to produce it, answer with READ for each section i paste, do not answer anything yet, understood? Y or N

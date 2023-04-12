@@ -1,0 +1,1 @@
+(the image is taken during the golden hour illuminating her face with a gentle warm sunlight that creates a magical atmosphere a custom white balance to emphasize the warm hues of the golden hour sunlight)
